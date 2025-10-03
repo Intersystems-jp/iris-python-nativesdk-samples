@@ -10,7 +10,7 @@
 
 ドライバーは、以下のディレクトリに存在します。
 
-<IRISInstallDir>/dev/python
+[IRISInstallDir]/dev/python
 
 whlという拡張子を持ったファイルを探す。
 
