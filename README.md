@@ -8,7 +8,7 @@
 
 ### IRIS native SDKドライバーのインストール
 
-ドライバーは、以下のディレクトリに存在します。
+ドライバーは、以下のIRISインストールディレクトリ配下に存在します。
 
 [IRISInstallDir]/dev/python
 
