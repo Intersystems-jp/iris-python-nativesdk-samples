@@ -22,13 +22,14 @@ IRISバージョンおよびプラットフォームによりファイル名は�
 
 ### サンプル実行
 
-ディレクトリ移動
+#### ディレクトリ移動
 
 ```cd python```
 
 #### irisversion.py
 
 稼働中のIRISバージョンを表示する
+(ついでにSamples.ADBK.clsのロードも行う)
 
 ```python3 irisversion.py```
 
