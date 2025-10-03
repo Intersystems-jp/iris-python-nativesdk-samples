@@ -29,6 +29,7 @@ IRISバージョンおよびプラットフォームによりファイル名は�
 #### irisversion.py
 
 稼働中のIRISバージョンを表示する
+
 (ついでにSamples.ADBK.clsのロードも行う)
 
 ```python3 irisversion.py```
