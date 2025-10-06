@@ -12,6 +12,7 @@ stringVal = irispy.classMethodString(className,'GetVersion')
 print('IRIS Version = ' + stringVal)
 className =  '%SYSTEM.OBJ'
 dir = os.getcwd()
+# 実行ディレクトリ名に/pythonが一個だけ含まれる前提
 fileName = dir.split('/python')[0] + '/src/Samples/ADBK.cls'
 status = irispy.classMethodObject(className,'Import',fileName,'ck')
 # error = irispy.classMethodString('%SYSTEM.Status','GetOneErrorText',status)
