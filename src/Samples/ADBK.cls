@@ -25,6 +25,19 @@ ClassMethod Init() As %Status
   quit $$$OK
 }
 
+ClassMethod GetAllNode(ByRef count As %String) As %Status
+{
+  set node = ""
+  set count = 0
+  for {
+    set node = $order(^Samples.ADBKD(node))
+    if node = "" quit
+    set count = $increment(count)  
+  }
+
+   quit $$$OK
+}
+
 Storage Default
 {
 <Data name="ADBKDefaultData">
