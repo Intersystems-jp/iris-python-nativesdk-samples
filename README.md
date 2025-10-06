@@ -80,4 +80,11 @@ DBI-APIを使用してSQLアクセスするサンプル
 python3 adbk-dbapi.py
 ```
 
-#### ##
+#### adbk-ref.py
+
+参照渡しのサンプル
+
+```
+python3 adbk-ref.py
+```
+
