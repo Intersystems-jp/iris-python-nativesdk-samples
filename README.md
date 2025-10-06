@@ -24,6 +24,10 @@ IRISバージョンおよびプラットフォームによりファイル名は�
 python3 -m pip install --upgrade /opt/iris/dev/python/intersystems_irispython-5.1.2-cp38.cp39.cp310.cp311.cp312.cp313-cp38.cp39.cp310.cp311.cp312.cp313-macosx_10_9_universal2.whl
 ```
 
+または、以下のドキュメント記載の通り、ダウンロードして利用することもできます。
+
+https://docs.intersystems.com/irislatest/csp/docbookj/DocBook.UI.Page.cls?KEY=BPYNAT_pyapi
+
 ### サンプル実行
 
 #### ディレクトリ移動
