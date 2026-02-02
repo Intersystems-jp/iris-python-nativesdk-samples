@@ -43,7 +43,7 @@ IRISのクラスメソッドを呼び出すサンプル
 (稼働中のIRISバージョンを表示し, Samples.ADBK.clsのロードを行う)
 
 ```
-python3 irisversion.py
+python3 call-classmethod.py
 ```
 
 #### adbk.py
