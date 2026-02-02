@@ -36,11 +36,11 @@ https://docs.intersystems.com/irislatest/csp/docbookj/DocBook.UI.Page.cls?KEY=BP
 cd python
 ```
 
-#### irisversion.py
+#### call-classmethod.py
 
-稼働中のIRISバージョンを表示する
+IRISのクラスメソッドを呼び出すサンプル
 
-(ついでにSamples.ADBK.clsのロードも行う)
+(稼働中のIRISバージョンを表示し, Samples.ADBK.clsのロードを行う)
 
 ```
 python3 irisversion.py
